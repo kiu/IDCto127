@@ -115,7 +115,7 @@
     "files": [
       {
         "name": "IDCto127.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
           "maximized": false,
@@ -127,14 +127,14 @@
       },
       {
         "name": "IDCto127.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
-          "maximized": false,
-          "pos_x": -7,
-          "pos_y": 0,
-          "size_x": 1734,
-          "size_y": 1399
+          "maximized": true,
+          "pos_x": -8,
+          "pos_y": -8,
+          "size_x": 3456,
+          "size_y": 1408
         }
       }
     ]
